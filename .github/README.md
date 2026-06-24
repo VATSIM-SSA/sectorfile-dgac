@@ -18,9 +18,9 @@ The Accra FIR covers the entirety of Ghana, as well as Benin and Togo. It is nei
 
 ## Countries & Territories
 
-- [Benin](https://eaip.vatssa.com/country/benin)
-- [Ghana](https://eaip.vatssa.com/country/ghana)
-- [Togo](https://eaip.vatssa.com/country/togo)
+- [Benin](https://docs.vatssa.com/Aerodromes/Benin/)
+- [Ghana](https://docs.vatssa.com/Aerodromes/Ghana/)
+- [Togo](https://docs.vatssa.com/Aerodromes/Togo/)
 
 ## Key Airports
 
@@ -32,7 +32,7 @@ The Accra FIR covers the entirety of Ghana, as well as Benin and Togo. It is nei
 
 Full sector file releases are available on [AeroNav GNG](https://files.aero-nav.com/DGAC).
 
-For setup, see the VATSSA [EuroScope & Sector File Installation Guide](https://github.com/VATSIM-SSA/sectorfile-overview/wiki).
+For setup, see the VATSSA [EuroScope & Sector File Installation Guide](https://docs.vatssa.com/New-Controllers/).
 
 > [!WARNING]
 > Releases published on GitHub do not include all essential files for the sector file. Always install the complete package from AeroNav GNG.

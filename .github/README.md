@@ -18,9 +18,9 @@ The Accra FIR covers the entirety of Ghana, as well as Benin and Togo. It is nei
 
 ## Countries & Territories
 
-- [Benin](https://docs.vatssa.com/Aerodromes/Benin/)
-- [Ghana](https://docs.vatssa.com/Aerodromes/Ghana/)
-- [Togo](https://docs.vatssa.com/Aerodromes/Togo/)
+- Benin
+- Ghana
+- Togo
 
 ## Key Airports
 
